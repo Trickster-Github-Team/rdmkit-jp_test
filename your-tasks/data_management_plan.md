@@ -42,7 +42,7 @@ DMPは、テキスト文書形式のテンプレートをダウンロードし�
   * [DMPTool](https://dmptool.org/): 広く使われているツールで、多くの大学や研究機関が研究者に<span>DMPTool</span>インスタンスを提供しています。
   * [EasyDMP](https://easydmp.no/): 汎欧州ネットワーク<span>EUDAT</span>が提供するツールです。
 
-## **DMP****には何を書くべきか？**
+## **DMPには何を書くべきか？**
 
 ### **概要**
 
@@ -65,5 +65,5 @@ DMPの一般的なトピックは以下の通りです：
 * このウェブサイトには、<span>DMP</span>でカバーすべき研究データ管理のさまざまな側面に関するベストプラクティスとガイドラインが含まれています。
 * 近年、日本の研究助成機関で提供されている<span> DMP</span>テンプレートは以下になります。
 
-* （日本）科学技術振興機構「[戦略的創造研究推進事業におけるデータマネジメント実施方針](https://www.jst.go.jp/kisoken/boshuu/h29/teian/koubo/data_houshin.pdf)」（<span>2016</span>）
-* （日本）日本医療研究開発機構「[データマネジメントプランの義務化について](https://www.amed.go.jp/koubo/datamanagement.html)」（<span>2020</span>）
+  * （日本）科学技術振興機構「[戦略的創造研究推進事業におけるデータマネジメント実施方針](https://www.jst.go.jp/kisoken/boshuu/h29/teian/koubo/data_houshin.pdf)」（<span>2016</span>）
+  * （日本）日本医療研究開発機構「[データマネジメントプランの義務化について](https://www.amed.go.jp/koubo/datamanagement.html)」（<span>2020</span>）
